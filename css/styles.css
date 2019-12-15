@@ -1,0 +1,19 @@
+body {
+    background-color: #EAF6F6;
+  }
+
+  hr {
+      /* it would not working because there is some default css applied by the website */
+    background-color: white;
+    /* hier should be changed */
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    /* height: 2px; */
+    width: 5%;
+  }
+
+  h1, h3 {
+    color: #66BFBF;
+  }

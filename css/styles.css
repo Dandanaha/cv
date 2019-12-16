@@ -2,6 +2,10 @@ body {
     background-color: #EAF6F6;
   }
 
+  #foto {
+    border-radius: 100%;
+  }
+
   hr {
       /* it would not working because there is some default css applied by the website */
     background-color: white;
